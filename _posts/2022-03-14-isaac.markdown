@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+title: Isaac's Dance of Genesis
+date: 2022-03-14
+img: isaac.png
+alt: image-alt
+project-date: March 2022
+category: Music Production and Composition
+description: Orchestral arrangement of The Binding of Isaac, a rogue-like videogame where you are a crying child fighting his fears. <a href="https://youtu.be/RQfB_wgMwzQ">YouTube</a>
+---

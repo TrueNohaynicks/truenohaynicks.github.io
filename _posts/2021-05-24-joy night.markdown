@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+title: Joy Nigth (Demo)
+date: 2021-05-24
+img: EFProd logo grande.png
+alt: image-alt
+project-date: May 2021
+category: Music Production and Composition
+description: A tribute to classic rock with different ideas and sounds. <a href="https://open.spotify.com/track/6q6VapUKGW2gvlOt2b1RbY?si=be904d8629f44a6d">Spotify</a> and <a href="https://youtu.be/ukug_GjLflM">YouTube</a>
+---

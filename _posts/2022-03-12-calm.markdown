@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+title: Calm
+date: 2022-03-12
+img: EFProd logo grande.png
+alt: image-alt
+project-date: March 2022
+category: Music Production and Composition
+description: An acoustic song very influenced by Crywank and others. It was a gift for an important person of mine. <a href="https://open.spotify.com/track/7nisQGlMka5ZDj78328vAh?si=f4ec66f9baff4397">Spotify</a> and <a href="https://youtu.be/jLfpx7D4GL4">YouTube</a>
+---
